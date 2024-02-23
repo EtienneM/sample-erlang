@@ -1,3 +1,10 @@
+> [!CAUTION]
+> Dear Users,\
+> **This sample is deprecated and code has been archived on the 12th February 2024.**\
+> If you want to deploy an Erlang app on Scalingo, please use your own buildpack (this one can maybe serve as a starting point).\
+> We won't provide any support for Erlang applications anymore.\
+> Thanks for your understanding.
+
 # Sample Application with Erlang
 
 This sample is running on: https://erlang.is-easy-on-scalingo.com/
